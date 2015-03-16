@@ -1,0 +1,16 @@
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\bin\Debug\Win7FTP.exe.config
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\bin\Debug\Win7FTP.exe
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\bin\Debug\Win7FTP.pdb
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\FTP.csprojResolveAssemblyReference.cache
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\Win7FTP.frmDownload.resources
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\Win7FTP.frmLogin.resources
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\Win7FTP.frmMain.resources
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\Win7FTP.frmNewFolder.resources
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\Win7FTP.frmRename.resources
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\Win7FTP.frmUpload.resources
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\Win7FTP.Properties.Resources.resources
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\FTP.csproj.GenerateResource.Cache
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\Win7FTP.exe
+C:\Users\DKO\Desktop\ITSTEP\Course work\Win7FTP\Win7FTP\obj\Debug\Win7FTP.pdb
